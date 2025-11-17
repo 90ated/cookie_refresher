@@ -2,7 +2,7 @@ name: Grab Cookies (Playwright) + Commit to Repo
 
 on:
   schedule:
-    - cron: "0 */5 * * *"   # every 5 hours
+    - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:        # manual run
 
 jobs:
