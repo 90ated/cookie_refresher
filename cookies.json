@@ -1,0 +1,52 @@
+[
+    {
+        "name": "NID",
+        "value": "526=WnN_Y8DE4C1cU-5ndvxAT9XLQNWSFByRrNrcXT7BgeyuNiGGkZ-6QTkwxc-yG3oWhj_z5tRfUghVjnTagKSOTKk2Fq7hDdLsCork3scisnYJ7VzXB_QLASYUKgCqft9KYUeFwdPMpef5AQb4SVoCuS-ax5RMlRlYL7bo2wkgCGw7SoZs-BWeKU6Sbu0YYXQfp_g9VnUeSVrvBw",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1779165547.028034,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_ga_VWZPXDNJJB",
+        "value": "GS2.1.s1763354348$o1$g0$t1763354348$j60$l0$h0",
+        "domain": ".trends.google.com",
+        "path": "/",
+        "expires": 1797914348.356209,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.3.896606299.1763354348",
+        "domain": ".trends.google.com",
+        "path": "/",
+        "expires": 1797914348.856123,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_gid",
+        "value": "GA1.3.1114453093.1763354349",
+        "domain": ".trends.google.com",
+        "path": "/",
+        "expires": 1763440748,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_gat_gtag_UA_4401283",
+        "value": "1",
+        "domain": ".trends.google.com",
+        "path": "/",
+        "expires": 1763354408,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    }
+]
