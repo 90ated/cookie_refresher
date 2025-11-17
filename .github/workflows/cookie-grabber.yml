@@ -1,9 +1,9 @@
-name: Grab Cookies (Playwright)
+name: Grab Cookies (Playwright) + Commit to Repo
 
 on:
-  workflow_dispatch:       # lets you run it manually
   schedule:
-    - cron: "0 */6 * * *"  # runs every 6 hours (optional)
+    - cron: "0 */5 * * *"   # every 5 hours
+  workflow_dispatch:        # manual run
 
 jobs:
   run-script:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # allows committing
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,8 +28,14 @@ jobs:
       - name: Run script
         run: python grab_cookies.py
 
-      - name: Upload cookies.json
-        uses: actions/upload-artifact@v4
-        with:
-          name: cookies
-          path: cookies.json
+      - name: Commit updated cookies.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add cookies.json
+          if git diff --cached --quiet; then
+            echo "No changes in cookies.json"
+          else
+            git commit -m "Updated cookies.json from GitHub Actions"
+            git push
+          fi
