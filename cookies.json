@@ -1,40 +1,40 @@
 [
     {
         "name": "NID",
-        "value": "526=Vh2jatI11IukYGkaw6gWPlKzB_fjDRnIAN0OuamdkY-V09Hm3Z7eqADVRfMcgkHLk1POXQjNGxEH2l_H1GhSLW27dAYp3CIujwQyIB0OhJc05L0Ilkg0R_f7gUPhvDoplg8gZGOHCtd5_42N08ZX2btFrCDoMGLG4SHTKb7rpwIGfM1FVY8QzQXWmhAqyHrh7PrT6CwwcpsStKNLegMQ",
+        "value": "526=gy0EiZNb0Y29J45A_scJNwF2oTmvy67o_alw6gwtNu94QATmnwtq5-_iECiWd-95mi4fhpPC8SkTnhoD5LVIisyRSjzocmngu_is15V68t50O19ZtyRErTeDPo5tyQkFtnePGuuF02v-wyZcDzxjFWV_1M1tOMyg9imL1-yETksdM-3hauRZGajTLUANIZrQdiSiWGzgXDWU0yKaJB9ous1XQlo",
         "domain": ".google.com",
         "path": "/",
-        "expires": 1779448153.349782,
+        "expires": 1779449620.171646,
         "httpOnly": true,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_ga_VWZPXDNJJB",
-        "value": "GS2.1.s1763636953$o1$g0$t1763636953$j60$l0$h0",
+        "value": "GS2.1.s1763638420$o1$g0$t1763638420$j60$l0$h0",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798196953.629624,
+        "expires": 1798198420.481267,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_ga",
-        "value": "GA1.3.534431125.1763636954",
+        "value": "GA1.3.1045318742.1763638420",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798196954.110567,
+        "expires": 1798198420.972498,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_gid",
-        "value": "GA1.3.669176148.1763636954",
+        "value": "GA1.3.1892817174.1763638421",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1763723354,
+        "expires": 1763724820,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
@@ -44,7 +44,7 @@
         "value": "1",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1763637014,
+        "expires": 1763638480,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
