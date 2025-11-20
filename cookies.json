@@ -1,40 +1,40 @@
 [
     {
-        "name": "NID",
-        "value": "526=hixMiOx69hqhKndrQtscRT3GBzHxUkBSRfmnq_ORbFSR42XdUehrSxAvznx9nKVEwTnKJNexnUxTjDeCws923VnthhbhK17yVs9s3GIVHeoCEXV-bqH2KbQikiBOjk9p2LvwtH2_RTqeMz9kBup-N0yzsptrnowOHkPQ0nj5jj4Mh7C3tXkabKo0d_aPKEHW1dhlGjWCDBX8nz8IbHAz939ZFr_s",
-        "domain": ".google.com",
-        "path": "/",
-        "expires": 1779439611.651309,
-        "httpOnly": true,
-        "secure": false,
-        "sameSite": "Lax"
-    },
-    {
         "name": "_ga_VWZPXDNJJB",
-        "value": "GS2.1.s1763628412$o1$g0$t1763628412$j60$l0$h0",
+        "value": "GS2.1.s1763629878$o1$g0$t1763629878$j60$l0$h0",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798188412.04243,
+        "expires": 1798189878.013524,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
+        "name": "NID",
+        "value": "526=l7W1sJv1ismuoK34FmssMJozQ3MWa0ym8g-e1s-dsNzy8L7ec31-plZY7VkXIdxjAqygp0EmQvcRSK4EcSMXtUfOD38RFLr7W0elTNYvmVNkRhHI8TL--9tu8E5TRtHE8Qsxnpb5CaOWdv_09DWCR_xjRvMpqxzq2RuWS1n49II4T2dFEMjB7I0tWd2qpA67YHh3PAo",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1779441076.111448,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
         "name": "_ga",
-        "value": "GA1.3.835108357.1763628412",
+        "value": "GA1.3.607270400.1763629878",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798188412.545798,
+        "expires": 1798189878.251093,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_gid",
-        "value": "GA1.3.1124132442.1763628413",
+        "value": "GA1.3.1926057546.1763629878",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1763714812,
+        "expires": 1763716278,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
@@ -44,7 +44,7 @@
         "value": "1",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1763628472,
+        "expires": 1763629938,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
