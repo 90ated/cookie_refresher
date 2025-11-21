@@ -1,40 +1,40 @@
 [
     {
         "name": "NID",
-        "value": "526=VVdLNaUOUHftcuXni9p5dnjoRbTV15sOSWccWnfSC3ivtchIbLUG2fp6_lnp7U0VSOt_snqIx2W0ZOIVyO6opFLVw4lcunOCt7EMl-r3uFOJIAVuP-JZV2Et1h-zDS4qdi0ea5gG81le4xFXzfq8nkt6DXvEfitapfcPFzpzdxf0BTEDWxCeb-VxNWKx4ozreth_eFJDKqp9VFxsX0UJy4whbHfo",
+        "value": "526=JD0KbmMowMNRIL5h1r8sVeELdkAdY71fK3kGBVsqEh4mVMDMAppeXkD3j_3vxndbGj8Xu2pQ2JLd3GPGgshenTBxFywQ3EY7t0aXF_At0-5ALCcZ7SFa66RcYVMcCKS6b-Xqg8zbNPaDtS1WGZx8Ol0iLZ2sVAzqcTb42oPZwBS7Fspu-m3S2O73Zpt0ByG0BCaT_d9Kh6mwqFl9DRWEqg",
         "domain": ".google.com",
         "path": "/",
-        "expires": 1779567033.221001,
+        "expires": 1779568751.15295,
         "httpOnly": true,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_ga_VWZPXDNJJB",
-        "value": "GS2.1.s1763755833$o1$g0$t1763755833$j60$l0$h0",
+        "value": "GS2.1.s1763757551$o1$g0$t1763757551$j60$l0$h0",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798315833.952072,
+        "expires": 1798317551.476479,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_ga",
-        "value": "GA1.3.346671882.1763755834",
+        "value": "GA1.3.39374569.1763757551",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798315834.150364,
+        "expires": 1798317551.970588,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_gid",
-        "value": "GA1.3.803534859.1763755834",
+        "value": "GA1.3.999733555.1763757552",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1763842234,
+        "expires": 1763843951,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
@@ -44,7 +44,7 @@
         "value": "1",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1763755894,
+        "expires": 1763757611,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
