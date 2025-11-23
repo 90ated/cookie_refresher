@@ -1,30 +1,40 @@
 [
     {
+        "name": "NID",
+        "value": "526=JDhtjz_LWZK8v6ypZkCRYlPzcAnz5RVN3dBuPvxqs4PwOD0Bl7eJ9-vMvd5N_i9k65D_ppoV8OZ8ojEe0vjLmE24Wyn5o8jEbRZvvny2nj7Q1-dyhfREE5I9oFgV95rp-x2TzIGLGku3FBJGjAWwMfSF5U2DfdVyJi0w1OOxGe5wa7myT4WPNxGgPJLB2j_WdvDB80c5F7eDHgeijzAN",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1779677481.596297,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
         "name": "_ga_VWZPXDNJJB",
-        "value": "GS2.1.s1763859092$o1$g0$t1763859092$j60$l0$h0",
+        "value": "GS2.1.s1763866281$o1$g0$t1763866281$j60$l0$h0",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798419092.272147,
+        "expires": 1798426281.905815,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_ga",
-        "value": "GA1.3.1519841758.1763859092",
+        "value": "GA1.3.757382797.1763866282",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798419092.663545,
+        "expires": 1798426282.381245,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_gid",
-        "value": "GA1.3.80480087.1763859093",
+        "value": "GA1.3.786614265.1763866282",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1763945492,
+        "expires": 1763952682,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
@@ -34,18 +44,8 @@
         "value": "1",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1763859152,
+        "expires": 1763866342,
         "httpOnly": false,
-        "secure": false,
-        "sameSite": "Lax"
-    },
-    {
-        "name": "NID",
-        "value": "526=OSSFeexD89HR-E_WbeT-5tdREjMqHQAL9W69D8pdqKLFReMw53_RPnP9LLc2VQQORiBB_S6_0l7ZOwe918Fgk3sqrYlhQ3oNA0RF8_In56KXZc6HD_OpR7WaAXBQJViQMG0z4ClPTrXAxbxFNcgcQDY4967C37s3t6gYo6w0R8KuBslPsW2FqBnugufVGDmHCUC1Fo5EVQv_FD_lifBi",
-        "domain": ".google.com",
-        "path": "/",
-        "expires": 1779670291.922064,
-        "httpOnly": true,
         "secure": false,
         "sameSite": "Lax"
     }
