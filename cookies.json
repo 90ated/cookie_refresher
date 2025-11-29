@@ -1,50 +1,30 @@
 [
     {
         "name": "NID",
-        "value": "526=H7698IRfblv_Bi1qIxsPsYS_Ya_IobjZByP9J2-vaanZ86duDuO11STBvZ7Xv60b8x8XeCN9LI3KJ7DaYg5q2qxX6FbuZcIVvdvhE9kKiLfQv7CgKtd9TEsynRNQjdwAjzKqr67rq2h3DWbj5XBt6paTH2A_u--YGssIOFim8Wd2-hBKHcwTu_hbO4uw7C5TCH4ZIbgMh8nwuFao1UY",
+        "value": "526=WaAx672xFDW3EZBZn_7f18tXNVM1H5U3EuDmkyiqEwRlQd9HJS-YJbAxWZWEEQAfYzKkMemrm10oAbbYc9Uajp_eG2mp_Iito06-XGM4ULXgSROZRlbXqHrLeuxwa_jz3CD28MqHbCt5zYGOrK2IqaqF6p7FP-wAXUXU3gGZjFATI8GeE0FvYYBlSa1fxdzoBrXv4h7-Vpl-7HTiZro",
         "domain": ".google.com",
         "path": "/",
-        "expires": 1780225387.449797,
+        "expires": 1780227073.929652,
         "httpOnly": true,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_ga_VWZPXDNJJB",
-        "value": "GS2.1.s1764414187$o1$g0$t1764414187$j60$l0$h0",
+        "value": "GS2.1.s1764415874$o1$g0$t1764415874$j60$l0$h0",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798974187.784753,
+        "expires": 1798975874.228316,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_ga",
-        "value": "GA1.3.474018778.1764414188",
+        "value": "GA1.1.1807167648.1764415874",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1798974187.884531,
-        "httpOnly": false,
-        "secure": false,
-        "sameSite": "Lax"
-    },
-    {
-        "name": "_gid",
-        "value": "GA1.3.164596885.1764414188",
-        "domain": ".trends.google.com",
-        "path": "/",
-        "expires": 1764500587,
-        "httpOnly": false,
-        "secure": false,
-        "sameSite": "Lax"
-    },
-    {
-        "name": "_gat_gtag_UA_4401283",
-        "value": "1",
-        "domain": ".trends.google.com",
-        "path": "/",
-        "expires": 1764414247,
+        "expires": 1798975874.228785,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
