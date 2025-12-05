@@ -1,31 +1,51 @@
 [
     {
-        "name": "NID",
-        "value": "527=028zOBvG2f4dgQZKyT3wZV2bKKJm8c5cPCzU-KVOu449wdDkbomhKFN6TdhxnWNIeLRvDalOn5lSQLB3Lx0AcvKHkQX2vzM_R5_E0GOC6EJ1Ocxsb4hKSy4HbPOiskuf1Ju-SMXpOT6SD08XNvjJeOCdrNqQoUDolNtF2nQW0bOYyfj3sTvUwY0YZCQSsiKRmV0clf5bGOyhWWGbib4",
-        "domain": ".google.com",
-        "path": "/",
-        "expires": 1780783773.119854,
-        "httpOnly": true,
-        "secure": false,
-        "sameSite": "Lax"
-    },
-    {
         "name": "_ga_VWZPXDNJJB",
-        "value": "GS2.1.s1764972573$o1$g0$t1764972573$j60$l0$h0",
+        "value": "GS2.1.s1764974407$o1$g0$t1764974407$j60$l0$h0",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1799532573.49188,
+        "expires": 1799534407.02564,
         "httpOnly": false,
         "secure": false,
         "sameSite": "Lax"
     },
     {
         "name": "_ga",
-        "value": "GA1.1.1460057427.1764972573",
+        "value": "GA1.3.1425665630.1764974407",
         "domain": ".trends.google.com",
         "path": "/",
-        "expires": 1799532573.492212,
+        "expires": 1799534407.129912,
         "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_gid",
+        "value": "GA1.3.1972557692.1764974407",
+        "domain": ".trends.google.com",
+        "path": "/",
+        "expires": 1765060807,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_gat_gtag_UA_4401283",
+        "value": "1",
+        "domain": ".trends.google.com",
+        "path": "/",
+        "expires": 1764974467,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "NID",
+        "value": "527=OTEurFmrfX3C5vHcFWS3j7OCQY5-H7RBRdj4V-keDCeK6d9tPYNt3Av5-weD_t4Bnl2vdtXwJ6vp0_b6d-l9Jd576cObk_1e8PNZjDKFupVRSmX6aWPV25t-m7OzPeGJR7XFHpxs_pNIV2LCG4YCtPjRrWkAYqMK1Lw4Ttn427TfRdOUbuVk8-7hAunPHIsxlMRc6inpRRCrx0djf1kc",
+        "domain": ".google.com",
+        "path": "/",
+        "expires": 1780785606.712937,
+        "httpOnly": true,
         "secure": false,
         "sameSite": "Lax"
     }
